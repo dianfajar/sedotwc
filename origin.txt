@@ -1,0 +1,616 @@
+Uri: http://sedotwc-salatiga.com/
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\index.htm
+Content Type: text/html
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/css/responsive.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\css\responsive.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/css/settings.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\css\settings.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/flexslider/flexslider.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\flexslider\flexslider.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/css/bootstrap-responsive.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\css\bootstrap-responsive.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/css/wide_layout.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\css\wide_layout.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/css/docs.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\css\docs.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/css/options.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\css\options.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/js/google-code-prettify/prettify.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\google-code-prettify\prettify.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/nivo/nivo-slider.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\nivo\nivo-slider.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/css/prettyPhoto.css
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: http://sedotwc-salatiga.com/assets/images/logo.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\logo.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/index.php
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\index-1.htm
+Content Type: text/html
+
+Uri: http://sedotwc-salatiga.com/services.php
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\services.htm
+Content Type: text/html
+
+Uri: http://sedotwc-salatiga.com/kontak.php
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\kontak.htm
+Content Type: text/html
+
+Uri: http://sedotwc-salatiga.com/images/gallery/retro_stripe1.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\gallery\retro_stripe1.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/gallery/0.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\gallery\0.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/gallery/mascot.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\gallery\mascot.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/cepat.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\cepat.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/hemat.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\hemat.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/armada.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\armada.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/pro.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\pro.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/6.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\6.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/7.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\7.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/images/8.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\8.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/logo-footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\logo-footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/js/jquery.themepunch.plugins.min.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\js\jquery.themepunch.plugins.min.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/js/jquery.themepunch.revolution.min.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\js\jquery.themepunch.revolution.min.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/jquery.tweet.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\jquery.tweet.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/google-code-prettify/prettify.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\google-code-prettify\prettify.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\jquery.easing.1.3.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/superfish-menu/superfish.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\superfish-menu\superfish.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/jquery.nivo.slider.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\jquery.nivo.slider.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/jquery.prettyPhoto.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\jquery.prettyPhoto.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/jflickrfeed.min.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\jflickrfeed.min.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/testimonialrotator.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\testimonialrotator.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/jquery.waitforimages.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\jquery.waitforimages.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/jquery.isotope.min.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\jquery.isotope.min.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/assets/js/custom.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\js\custom.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/flexslider/jquery.flexslider-min.js
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\flexslider\jquery.flexslider-min.js
+Content Type: text/javascript
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/shadow1.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\shadow1.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/shadow2.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\shadow2.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/shadow3.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\shadow3.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/images/gradient/g30.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\images\gradient\g30.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/images/gradient/g40.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\images\gradient\g40.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/boxed_bgtile.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\boxed_bgtile.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/navigdots_bgtile.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\navigdots_bgtile.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/bullet.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\bullet.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/bullets.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\bullets.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/bullets2.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\bullets2.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/bullet_boxed.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\bullet_boxed.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/navigdots.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\navigdots.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/small_left.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\small_left.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/small_right.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\small_right.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/arrow_left.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\arrow_left.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/arrow_right.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\arrow_right.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/small_left_boxed.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\small_left_boxed.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/small_right_boxed.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\small_right_boxed.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/arrowleft.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\arrowleft.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/arrowright.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\arrowright.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/arrow_left2.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\arrow_left2.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/arrow_right2.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\arrow_right2.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/large_left.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\large_left.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/large_right.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\large_right.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/timer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\timer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/coloredbg.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/rs-plugin/assets/loader.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\rs-plugin\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/flexslider/images/bg_direction_nav.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\flexslider\images\bg_direction_nav.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/glyphicons-halflings.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\glyphicons-halflings.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/glyphicons-halflings-white.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\glyphicons-halflings-white.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_twitter.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_twitter.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_facebook.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_facebook.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_in.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_in.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_pi.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_pi.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_dribbble.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_dribbble.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_google.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_google.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_youtube.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_youtube.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_flickr.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_flickr.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_twitter_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_twitter_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_facebook_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_facebook_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_in_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_in_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_pi_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_pi_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_dribbble_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_dribbble_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_google_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_google_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_youtube_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_youtube_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_flickr_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_flickr_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_da_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_da_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_skype_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_skype_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_icq_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_icq_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_envato_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_envato_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_ms_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_ms_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_bing_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_bing_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/icons_forrst_footer.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\icons_forrst_footer.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-right-mini.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-right-mini.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-left.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-left.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-right.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-right.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-right-hover.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-right-hover.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-left-hover.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-left-hover.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/spinner-slider.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\spinner-slider.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/assets/img/shadow.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\shadow.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/spinner.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\spinner.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/assets/img/zoom.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\zoom.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/link.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\link.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/bl.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\bl.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-left-min.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-left-min.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-right-min.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-right-min.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-right-min-hover.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-right-min-hover.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/arr-left-min-hover.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\arr-left-min-hover.png
+Content Type: image/png
+
+Uri: http://html.orange-idea.com/veles/images/read_more.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\veles\images\read_more.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/tw.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\tw.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/user.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\user.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/blockquote6.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\blockquote6.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/blockquote7.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\blockquote7.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/blockquote8.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\blockquote8.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/blockquote9.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\blockquote9.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/img/dv.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\img\dv.png
+Content Type: image/png
+
+Uri: http://html.orange-idea.com/builder/wp-content/themes/builder/images/bg/diagonal-noise.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\builder\wp-content\themes\builder\images\bg\diagonal-noise.htm
+Content Type: text/html
+
+Uri: http://www.orange-idea.com/assets/builder/zoom.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\builder\zoom.htm
+Content Type: text/html
+
+Uri: http://www.orange-idea.com/assets/builder/link.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\builder\link.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/default/sprite.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/default/sprite_x.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/default/sprite_y.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/default/sprite_next.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/default/sprite_prev.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/default/default_thumb.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/default/loader.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/light_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/light_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_square/loader.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_square/sprite.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_square/btnNext.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/light_square/sprite.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/light_square/btnNext.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/light_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/sprite.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/loader.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/btnNext.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/btnPrevious.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/assets/images/prettyPhoto/light_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\assets\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://sedotwc-salatiga.com/images/10.png
+File Name: c:\Downloaded Web Sites\sedotwc-salatiga.com\images\10.png
+Content Type: image/png
+
